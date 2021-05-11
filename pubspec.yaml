@@ -1,8 +1,9 @@
-name: kodora_size_config
-description: A new Flutter package.
-version: 0.0.2
+name: kodora_ux
+  #kodora_size_config
+description: kodora_ux it's a new Flutter package to control the responsiveness of your interfaces and thus keep the same rendering on all media.
+version: 0.8.0
 author: Shegun Montcho <shekmontcho@gmail.com>
-homepage: https://github.com/Shek863/SizeConfig
+homepage: https://github.com/Shek863/
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
